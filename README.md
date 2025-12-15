@@ -1,16 +1,26 @@
-## Hi there 👋
+<div align="center">
+  <h1>Hi! Farhan Here</h1>
+  
+  <p>
+    <b>Computer Science & Engineering Student</b> • <b>AI/ML Enthusiast</b> • <b>Minor Specialization in Computational Intelligence</b>
+  </p>
+</div>
 
-<!--
-**farh7nn/farh7nn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr>
 
-Here are some ideas to get you started:
+### 
+* 🎓Final Year CSE Student @ Manipal Dubai
+* Growing focus on Artificial Intelligence, Machine Learning, and Data Analytics.
+* Strong foundations in software development, programming, and computer networks.
+* Looking to expand both my technical and interpersonal skill sets.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+### 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farh7nn/)
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=farh7nn&show_icons=true&theme=dark&hide_border=true" height="150" alt="stats graph"  />
+</div>
